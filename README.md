@@ -1,7 +1,7 @@
 # 👋 Hey there!
 
 <div align="center">
-  <img src="/github-metrics.svg" align="right" width="325" />
+  <img src="/github-metrics.svg" align="right" width="315" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1DF70C&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Aditya+a.k.a.+DarkHero!)](https://git.io/typing-svg)
