@@ -9,7 +9,7 @@
  - 🤠 Pronouns: **He / Him**
  - 🎓 **Electronics & Communication Engineering (ECE)** Undergrad
  - 🏛️ Studying at **Thapar Institute of Engineering & Technology**, Patiala
- - 🛠️ Passionate about building systems that blend **software**, **hardware** and **intelligence**
+ - 🛠️ Passionate about building systems that blend **hardware** and **software**
  - 💡 Interests in web scraping, circuitry, microcontrollers
 
 ### Let's Connect
