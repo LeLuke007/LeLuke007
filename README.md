@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeLuke007&theme=tokyonight&hide_border=true" alt="streak" style="display:inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeLuke007&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="streak" style="display:inline-block;" />
   <img src="https://github-readme-stats.vercel.app/api?username=LeLuke007&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeLuke007&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="langs" style="display:inline-block;"/>
 </p>
