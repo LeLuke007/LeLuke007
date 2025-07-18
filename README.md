@@ -4,7 +4,7 @@
   <img src="/github-metrics.svg" align="right" width="325" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=1DF70C&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Aditya+a.k.a.+DarkHero!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1DF70C&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Aditya+a.k.a.+DarkHero!)](https://git.io/typing-svg)
 
  - 🤠 Pronouns: **He / Him**
  - 🎓 **Electronics & Communication Engineering (ECE)** Undergrad
@@ -59,11 +59,18 @@
   </a> -->
 </p>
 
+<br>
+
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeLuke007&theme=react&hide_border=true" alt="streak" style="display:inline-block;" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeLuke007&layout=compact&theme=tokyonight&hide_border=true" alt="langs" style="display:inline-block;"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=LeLuke007&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=29&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeLuke007&theme=tokyonight&hide_border=true" alt="streak" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeLuke007&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeLuke007&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="langs" style="display:inline-block;"/>
+</p>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=LeLuke007&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/> -->
 
 ---
